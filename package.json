@@ -1,0 +1,26 @@
+{
+  "name": "window-cleaning-2026",
+  "version": "0.1.0",
+  "description": "A free, open-source window cleaning cost calculator for commercial facility managers, property managers, and building operations teams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveCookVectorLabs/window-cleaning-2026.git"
+  },
+  "keywords": [
+    "window-cleaning",
+    "cost-calculator",
+    "facility-management",
+    "commercial-cleaning",
+    "estimator"
+  ],
+  "author": "Binx Professional Cleaning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaveCookVectorLabs/window-cleaning-2026/issues"
+  },
+  "homepage": "https://github.com/DaveCookVectorLabs/window-cleaning-2026#readme"
+}

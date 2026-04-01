@@ -1,0 +1,57 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Rust
+target/
+
+# Build artifacts
+*.whl
+*.tar.gz
+
+# Coverage / testing
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+
+# PyPI upload
+.pypirc
+
+# Local-only project tracking
+PUBLISH_CHECKLIST.md
