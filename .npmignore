@@ -1,4 +1,5 @@
 PUBLISH_CHECKLIST.md
+SESSION_STATE.md
 engines/rust/target/
 __pycache__/
 *.pyc

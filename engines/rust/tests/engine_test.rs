@@ -86,7 +86,7 @@ async fn test_all_window_types() {
         let materials = labour * 0.08;
         let subtotal = labour + materials;
         let margin = subtotal * 0.35;
-        let expected = ((subtotal + margin) * 100.0).round() / 100.0;
+        let expected = ((subtotal + margin) * 100.0_f64).round() / 100.0;
         assert_eq!(resp["final_price"], expected, "Mismatch for {}", wt);
     }
 }
@@ -120,7 +120,7 @@ async fn test_all_access_methods() {
         let materials = labour * 0.08;
         let subtotal = labour + materials;
         let margin = subtotal * 0.35;
-        let expected = ((subtotal + margin) * 100.0).round() / 100.0;
+        let expected = ((subtotal + margin) * 100.0_f64).round() / 100.0;
         assert_eq!(resp["final_price"], expected, "Mismatch for {}", am);
     }
 }
@@ -153,7 +153,7 @@ async fn test_all_frequencies() {
         let materials = labour * 0.08;
         let subtotal = labour + materials;
         let margin = subtotal * 0.35;
-        let expected = ((subtotal + margin) * 100.0).round() / 100.0;
+        let expected = ((subtotal + margin) * 100.0_f64).round() / 100.0;
         assert_eq!(resp["final_price"], expected, "Mismatch for {}", freq);
     }
 }

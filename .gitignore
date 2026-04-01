@@ -55,3 +55,4 @@ yarn-error.log*
 
 # Local-only project tracking
 PUBLISH_CHECKLIST.md
+SESSION_STATE.md

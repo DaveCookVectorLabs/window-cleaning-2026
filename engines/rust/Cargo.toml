@@ -2,6 +2,13 @@
 name = "window-cleaning-engine"
 version = "0.1.0"
 edition = "2021"
+description = "A commercial window cleaning cost calculation engine for facility managers in Northern Ontario. Built by Binx Professional Cleaning."
+license = "MIT"
+repository = "https://github.com/DaveCookVectorLabs/window-cleaning-2026"
+homepage = "https://www.binx.ca/"
+keywords = ["window-cleaning", "cost-calculator", "facility-management", "commercial-cleaning"]
+categories = ["web-programming::http-server"]
+readme = "../../README.md"
 
 [dependencies]
 actix-web = "4"
