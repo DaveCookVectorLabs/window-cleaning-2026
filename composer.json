@@ -1,0 +1,41 @@
+{
+    "name": "davecook/window-cleaning-2026",
+    "description": "Commercial window cleaning cost calculator for facility managers. Models labour, access difficulty, frequency discounts, and margins. Multi-engine: PHP, Python, Rust, Java, Ruby, Elixir.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dave Cook",
+            "email": "dave@binx.ca",
+            "homepage": "https://www.binx.ca/"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "WindowCleaning\\": "engines/php/src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "WindowCleaning\\Tests\\": "engines/php/tests/"
+        }
+    },
+    "keywords": [
+        "window-cleaning",
+        "cost-calculator",
+        "facility-management",
+        "commercial-cleaning",
+        "northern-ontario"
+    ],
+    "homepage": "https://github.com/DaveCookVectorLabs/window-cleaning-2026",
+    "support": {
+        "issues": "https://github.com/DaveCookVectorLabs/window-cleaning-2026/issues",
+        "source": "https://github.com/DaveCookVectorLabs/window-cleaning-2026"
+    }
+}
