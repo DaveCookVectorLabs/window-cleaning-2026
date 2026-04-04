@@ -1,8 +1,19 @@
 # Window Cleaning Cost Calculator
 
+[![PyPI version](https://badge.fury.io/py/window-cleaning-2026.svg)](https://badge.fury.io/py/window-cleaning-2026)
+[![npm version](https://badge.fury.io/js/%40davecook%2Fwindow-cleaning-2026.svg)](https://badge.fury.io/js/%40davecook%2Fwindow-cleaning-2026)
+[![Crates.io](https://img.shields.io/crates/v/window-cleaning-engine.svg)](https://crates.io/crates/window-cleaning-engine)
+[![Gem Version](https://badge.fury.io/rb/window_cleaning_2026.svg)](https://badge.fury.io/rb/window_cleaning_2026)
+[![Hex.pm](https://img.shields.io/hexpm/v/window_cleaning.svg)](https://hex.pm/packages/window_cleaning)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.davecookvectorlabs/window-cleaning-engine.svg)](https://central.sonatype.com/artifact/io.github.davecookvectorlabs/window-cleaning-engine)
+[![Docker Hub](https://img.shields.io/docker/v/davecook1985/window-cleaning-2026?label=docker)](https://hub.docker.com/r/davecook1985/window-cleaning-2026)
+[![Documentation](https://readthedocs.org/projects/window-cleaning-2026/badge/?version=latest)](https://window-cleaning-2026.readthedocs.io/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19373427.svg)](https://doi.org/10.5281/zenodo.19373427)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A free, open-source window cleaning cost calculator for commercial facility managers, property managers, and building operations teams. Built and maintained by [Binx Professional Cleaning](https://www.binx.ca/) — a WSIB-covered, fully insured commercial and residential cleaning company operating in Northern Ontario since 2013.
 
-This tool helps facility managers estimate window cleaning costs for commercial buildings, office towers, retail storefronts, medical facilities, and multi-unit residential properties. It runs as a lightweight web form backed by interchangeable calculation engines written in Python and Rust.
+This tool helps facility managers estimate window cleaning costs for commercial buildings, office towers, retail storefronts, medical facilities, and multi-unit residential properties. It runs as a lightweight web form backed by interchangeable calculation engines written in Python, Rust, Java, Ruby, and Elixir.
 
 ---
 

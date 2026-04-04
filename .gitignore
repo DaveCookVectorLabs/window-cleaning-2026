@@ -34,6 +34,19 @@ Thumbs.db
 # Rust
 target/
 
+# Elixir
+_build/
+deps/
+doc/
+*.ez
+mix.lock
+
+# Java / Maven
+engines/java/target/
+
+# Ruby gem build artifacts
+*.gem
+
 # Build artifacts
 *.whl
 *.tar.gz
